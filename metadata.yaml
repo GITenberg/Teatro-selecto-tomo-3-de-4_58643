@@ -1,0 +1,35 @@
+_repo: Teatro-selecto-tomo-3-de-4_58643
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Barca, Pedro Calderón de la
+    - Calderon de la Barca, Pedro
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+  editor:
+    agent_name: Menéndez y Pelayo, Marcelino
+    aliases:
+    - Pelayo, Marcelino Menéndez y
+    - Pelayo, Marcelino Menendez y
+    birthdate: 1856
+    deathdate: 1912
+    gutenberg_agent_id: '47265'
+    url: http://www.gutenberg.org/2009/agents/47265
+description: ''
+gutenberg_issued: '2019-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58643'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Teatro selecto, tomo 3 de 4
+url: http://www.gutenberg.org/ebooks/58643
